@@ -4,7 +4,6 @@
   <img align="center" alt="Uri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Uri-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
   <img align="center" alt="Uri-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Uri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg">
  
   </div>
   <div> 
